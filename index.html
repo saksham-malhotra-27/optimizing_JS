@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+    <h1> Web Performance</h1>
+    </nav>
+    <div id="directText">
+    <div id="root">
+    <h1 > For Fetching data from API Directly</h1>
+    </div>
+    <div id="fetch">
+        <button id="forFetch">Fetch data</button>
+        <div id="targetFetch"></div>
+    </div>
+    </div>
+    <div id="cacheText">
+        <div id="root">
+        <h1 > For Fetching data from API via checking Cache</h1>
+        </div>
+        <div id="fetchc">
+            <button id="forFetchc">Fetch data</button>
+            <div id="targetFetchc"></div>
+        </div>
+    </div>
+    <h1 id="withoLazy">Without Lazy Loading</h1>
+    <div id="imgVids">
+    </div>
+    <p id="imgDiff">Avg Difference: </p>
+    <h1 id="withLazy">With Lazy Loading</h1>
+    <div id="lazy"></div>
+    <p id="imgDiff2">Avg Difference:</p>
+    <script src="main.js" type="module"></script>
+</body>
+</html>
