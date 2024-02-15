@@ -29,7 +29,7 @@ The lazy loading technique delays loading of images until they are needed, impro
 - API used for fetching user data: Dummy JSON
 - API used for fetching images: The Cat API
 
-##Feel free to explore and experiment with the code! If you have any questions or suggestions, please don't hesitate to reach out. Happy coding! 🚀
+## Feel free to explore and experiment with the code! If you have any questions or suggestions, please don't hesitate to reach out. Happy coding! 🚀
 
 
 
