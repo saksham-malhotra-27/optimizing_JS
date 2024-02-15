@@ -19,16 +19,13 @@ The lazy loading technique delays loading of images until they are needed, impro
 - Clone this repository to your local machine.
 - Open index.html in a web browser.
 - Click the respective buttons to see the different techniques in action.
-- 
 ## Technologies Used
 - JavaScript
 - HTML
 - CSS
-- 
 ## Credits
 - API used for fetching user data: Dummy JSON
 - API used for fetching images: The Cat API
-
 ## Feel free to explore and experiment with the code! If you have any questions or suggestions, please don't hesitate to reach out. Happy coding! 🚀
 
 
